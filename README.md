@@ -1,5 +1,10 @@
 # VeDA
 
+<p align="center" width="100%">
+  <img src="./diagrams/VeDAMindMap.png" alt="site"/>
+</p>
+
+
 ## Problem Statement
 
 ### Lack of Monetization Options 
@@ -73,3 +78,31 @@ This REST API will collect and index all the information regarding NFT in the fo
 Once we have this information an Chain link oracle contract can be implement to query this information per NFT or in bulk (still have figure out which is more appropiate based on which direction we take)
 
 We also have to expose a JS script to call this contract and then update the Chainlink with this new information. (Again this has to be well thought how we will be doing this).
+
+## Features
+
+<p align="center" width="100%">
+  <img src="./diagrams/VeDAFeatureMindMap.png" alt="site"/>
+</p>
+
+## Use Case
+
+<p align="center" width="100%">
+  <img src="./diagrams/VeDAUseCases.png" alt="site"/>
+</p>
+
+
+## Analytics API
+
+### Flowchart
+
+<p align="center" width="100%">
+  <img src="./diagrams/VeDAAnalyticsAPIFlowchart.png" alt="site"/>
+</p>
+
+### Sequence Diagram
+
+<p align="center" width="100%">
+  <img src="./diagrams/AnalyticsAPISequenceDiagram.png" alt="site"/>
+</p>
+
