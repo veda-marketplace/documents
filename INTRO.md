@@ -150,16 +150,28 @@ Despite these challenges, our team's dedication and resilience enabled us to ove
 
 ## Accomplishments that we're proud of 
 
+
 ## Conclusion
 
 Participating in this hackathon has been an enriching experience. The journey from ideation to implementation was filled with learning and growth. We are proud of what we have accomplished and look forward to continuing to develop and refine LocalEventHub to better serve our community.
 
 ## What's next for VeDA (Verifiable Digital Arts) Platform
 
+Our vision for VeDA extends beyond the current capabilities. Moving forward, we aim to further explore and enhance the copyright protection features that set VeDA apart from other web3 digital art platforms. Here are our key focus areas:
 
+1. **Expanding Copyright Protections**: 
+    - We plan to collaborate with governments and regulatory bodies across various jurisdictions to recognize digital art as a distinct and legitimate art form deserving of robust copyright laws and regulations. This will help ensure that digital artists receive the same protections as traditional artists.
 
+2. **Building Strategic Partnerships**: 
+    - To extend the reach and impact of VeDA's proprietary copyright functionality, we aim to establish partnerships with major social media platforms, including Discord, Twitter (X), Facebook, and Telegram. Integrating VeDA's copyright protection features into these platforms will help regulate and safeguard digital arts within the web3 community.
 
+3. **Community Engagement and Education**: 
+    - We plan to engage with the web3 and digital art communities through educational initiatives and workshops. By raising awareness about the importance of copyright protection and the tools available through VeDA, we hope to foster a more informed and proactive community.
 
+4. **Technological Advancements**:
+    - Continuous improvement of our platform's technology is crucial. We will focus on enhancing our verification algorithms, incorporating advanced AI capabilities, and ensuring our platform remains at the forefront of innovation in the digital art space.
+
+By pursuing these goals, we aim to solidify VeDA's position as a leader in the digital art marketplace, providing unparalleled security and peace of mind for creators and buyers alike.
 
 Thank you for the opportunity to share our story!
 
