@@ -148,8 +148,17 @@ Throughout the hackathon, we encountered several challenges:
 
 Despite these challenges, our team's dedication and resilience enabled us to overcome obstacles and deliver a functional and impactful project.
 
-## Accomplishments that we're proud of 
+### Accomplishments That We're Proud Of
 
+We are incredibly proud of several key accomplishments that set VeDA apart:
+
+- **Discord Bot for Copyright Verification**:
+    - We developed a Discord bot that serves as a proof-of-concept for verifying web3 digital arts. This bot uses IPFS hashes and pixel comparison to check if any images on a Discord server match the profile pictures of VeDA server members. This challenging undertaking not only proved feasible but also boosted our confidence in extending this functionality to other social media platforms. This innovation makes VeDA the only marketplace that helps users identify copyright breaches, enhancing trust and security within the community.
+
+- **Regenerative AI for Digital Art Creation**:
+    - We successfully integrated regenerative AI capabilities to create web3 digital art collections. This achievement distinguishes VeDA from other marketplaces by offering advanced tools for digital artists to generate unique, high-quality artwork effortlessly. This technological edge highlights VeDA's commitment to innovation and support for the creative community.
+
+These accomplishments reflect our dedication to pioneering solutions and setting new standards in the digital art marketplace.
 
 ## Conclusion
 
